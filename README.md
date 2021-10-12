@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🧑‍🎓 I’m Yoshitaka Inoue, 1st year PhD Student in Computer Science at University of Minnesota.
+🧑‍🎓 I’m Yoshitaka Inoue, 1st year PhD Student in Computer Science at University of Minnesota.  
 🤔 Research Interests: Machine Learning, Biological Networks and Mathematical Optimization.
 
 
