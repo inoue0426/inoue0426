@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🧑‍🎓 I’m Yoshitaka Inoue, 1st year PhD Student in Computer Science at University of Minnesota.
+🤔 Research Interests: Machine Learning, Biological Networks and Mathematical Optimization.
+
+
 <!--
 **inoue0426/inoue0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
