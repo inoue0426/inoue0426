@@ -3,7 +3,9 @@
 🧑‍🎓 I’m Yoshitaka Inoue, 1st year PhD Student in Computer Science at University of Minnesota.  
 🤔 Research Interests: Machine Learning, Biological Networks and Mathematical Optimization.
 
-[![Yoshitaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=inoue0426&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Yoshitaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=inoue0426&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inoue0426)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **inoue0426/inoue0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
