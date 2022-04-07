@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yoshitaka Inoue</h1>
-<h3 align="center">1st PhD Student at University of Minnesota.</h3>
+<h3 align="center">1st year PhD Student at University of Minnesota.</h3>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inoue0426&theme=solarized)
