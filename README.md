@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yoshitaka Inoue</h1>
 <h3 align="center">1st PhD Student at University of Minnesota.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inoue0426&label=Profile%20views&color=0e75b6&style=flat" alt="inoue0426" /> </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inoue0426&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inoue0426&theme=solarized)
