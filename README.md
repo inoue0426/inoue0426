@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yoshitaka Inoue</h1>
-<h3 align="center">1st year PhD Student at University of Minnesota.</h3>
-
+<h1 align="center">Hi 👋, I'm Yoshi.</h1>
+<h4 align="center">2nd year PhD Student at University of Minnesota</h4>
+<h4 align="center">Working on Computational Biology 🧬</h4>
+ 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inoue0426&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inoue0426&theme=solarized)
