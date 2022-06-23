@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yoshi.</h1>
-<h4 align="center">2nd year PhD Student at University of Minnesota</h4>
-<h4 align="center">Working on Computational Biology 🧬</h4>
- 
+2nd year PhD Student | Dept. of Computer Science, University of Minnesota 
+
+inoue019@umn.edu   
+LinkedIn: [inoue0426](https://www.linkedin.com/in/inoue0426/)   
+Twitter: [@inoue_0426](https://twitter.com/inoue_0426)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inoue0426&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inoue0426&theme=solarized)
