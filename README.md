@@ -1,9 +1,5 @@
 2nd year PhD Student | Dept. of Computer Science, University of Minnesota 
 
-inoue019@umn.edu   
-LinkedIn: [inoue0426](https://www.linkedin.com/in/inoue0426/)   
-Twitter: [@inoue_0426](https://twitter.com/inoue_0426)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inoue0426&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inoue0426&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inoue0426&theme=solarized)
