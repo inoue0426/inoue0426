@@ -1,4 +1,4 @@
-2nd year PhD Student | Dept. of Computer Science, University of Minnesota 
+PhD Student | Dept. of Computer Science, University of Minnesota 
 [More details](https://inoue04260.notion.site/Yoshitaka-Inoue-be8400ee2f82411f8bac9dee451bfd74)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inoue0426&theme=solarized)
