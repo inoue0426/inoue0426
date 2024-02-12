@@ -1,6 +1,6 @@
 PhD Student | 
-Dept. of Computer Science, University of Minnesota
-Pre-doctoral award fellow at the National Library of Medicine and National Cancer Institute
+Dept. of Computer Science, University of Minnesota   
+Pre-doctoral award fellow at the National Library of Medicine and National Cancer Institute   
 [More details](https://inoue04260.notion.site/Yoshitaka-Inoue-be8400ee2f82411f8bac9dee451bfd74)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inoue0426&theme=solarized)
