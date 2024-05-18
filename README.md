@@ -1,5 +1,5 @@
 PhD Student | Dept. of Computer Science, University of Minnesota   
-Contact: yoshitaka.inoue.github@gmail.com
+https://inoue0426.github.io/
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inoue0426&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inoue0426&theme=solarized)
