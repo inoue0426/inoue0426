@@ -1,4 +1,4 @@
-PhD Student | Dept. of Computer Science, University of Minnesota   
+Ph.D. candidate @ UMN CS | Pre-doctoral Fellow @ NIH/NLM & NCI | ML for drug discovery
 https://inoue0426.github.io/
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inoue0426&theme=solarized)
