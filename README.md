@@ -62,9 +62,3 @@ More projects and publications are available on my [academic website](https://in
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
 </p>
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inoue0426&theme=github" alt="GitHub profile summary">
-</p>
