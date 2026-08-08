@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Interpretable and reasoning-centered AI for drug response prediction,<br>
+  Representation learning and structured machine learning for therapeutic response modeling,<br>
   computational drug discovery, and precision medicine.
 </p>
 
@@ -22,25 +22,26 @@
 
 ## Research
 
-My research develops computational methods that connect molecular data, biomedical evidence, and treatment-response prediction.
+My research develops machine-learning methods for modeling therapeutic response across molecular, cellular, and patient contexts. I am particularly interested in predictive representations, structured biological knowledge, and robust modeling under intervention.
 
-- **Interpretable drug response prediction** using heterogeneous drug–cell–gene networks
-- **Biomedical multi-agent reasoning** under heterogeneous and conflicting evidence
-- **Patient-state and perturbation modeling** for treatment-conditioned state transitions
-- **Graph representation learning**, pharmacogenomics, and single-cell analysis
+### Research Directions
 
-My PhD thesis follows a progression from **interpreting drug response**, to **reasoning across biomedical evidence**, to **predicting patient-state transitions under treatment**.
+- **Representation learning** — learning predictive molecular, cellular, and patient representations that preserve treatment-relevant biological context.
+- **Perturbation / response modeling** — modeling treatment-conditioned changes in biological state and generalizing response predictions across drugs, cells, and patient contexts.
+- **Structured / causal modeling** — using biological structure and causal principles to improve interpretability, robustness, and generalization under intervention.
+
+My PhD work follows a progression from **interpreting drug response**, to **reasoning across biomedical evidence**, to **learning treatment-conditioned representations for response prediction**.
 
 ## Featured Projects
-
-### [DrugAgent](https://github.com/inoue0426/DrugAgent)
-Reliable multi-agent aggregation for biomedical evidence synthesis and computational drug discovery.
 
 ### [drGT](https://github.com/inoue0426/drGT)
 Attention-guided gene assessment of drug response using a drug–cell–gene heterogeneous network.
 
-### Patient-State World Model
-Ongoing research on drug-conditioned state-transition modeling for patient drug-response prediction.
+### [DrugAgent](https://github.com/inoue0426/DrugAgent)
+Reliable multi-agent aggregation for biomedical evidence synthesis and computational drug discovery.
+
+### Treatment-Conditioned Representation Learning
+Ongoing thesis research on predictive representations for therapeutic perturbation and patient-response modeling.
 
 More projects and publications are available on my [academic website](https://inoue0426.github.io/).
 
@@ -57,7 +58,7 @@ More projects and publications are available on my [academic website](https://in
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179" alt="PyTorch Geometric">
   <img src="https://img.shields.io/badge/Graph_Neural_Networks-194F8A" alt="Graph Neural Networks">
-  <img src="https://img.shields.io/badge/LLM_Agents-5B3FD1" alt="LLM Agents">
+  <img src="https://img.shields.io/badge/Representation_Learning-4B5563" alt="Representation Learning">
   <img src="https://img.shields.io/badge/Single--Cell_Analysis-258A5B" alt="Single-Cell Analysis">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
