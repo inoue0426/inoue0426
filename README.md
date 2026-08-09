@@ -45,6 +45,17 @@ Ongoing thesis research on predictive representations for therapeutic perturbati
 
 More projects and publications are available on my [academic website](https://inoue0426.github.io/).
 
+## Research Infrastructure
+
+I maintain a small set of open-source repositories for organizing research, evaluating ideas, and reusing scientific tools:
+
+- [research_ideas](https://github.com/inoue0426/research_ideas) — capture, compare, and evaluate research questions before committing substantial research time.
+- [research_log](https://github.com/inoue0426/research_log) — preserve research decisions, lessons, negative results, and open questions.
+- [research_toolbox](https://github.com/inoue0426/research_toolbox) — reusable utilities and templates for computational biology and scientific workflows.
+- [awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) — curated databases, software, datasets, papers, and resources in computational biology.
+
+Together, these repositories support a lightweight workflow from **existing resources → research ideas → projects and experiments → lessons and reusable tools**.
+
 ## Current Affiliations
 
 - **University of Minnesota** — PhD Candidate, Computer Science and Engineering
