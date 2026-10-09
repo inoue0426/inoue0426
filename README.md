@@ -9,7 +9,7 @@
 
 I develop machine-learning methods to understand how biological systems respond to interventions—and translate those representations into better therapeutic predictions.
 
-[**Website**](https://inoue0426.github.io/) · [**Publications**](https://inoue0426.github.io/#publications) · [**GitHub Projects**](https://github.com/inoue0426?tab=repositories) · [**Contact**](mailto:inoue.yoshitaka.iv1@gmail.com)
+[**Website**](https://inoue0426.github.io/) · [**Publications (Google Scholar)**](https://scholar.google.com/citations?hl=en&user=aBizyLkAAAAJ) · [**GitHub Projects**](https://github.com/inoue0426?tab=repositories) · [**Contact**](mailto:inoue.yoshitaka.iv1@gmail.com)
 
 </div>
 
