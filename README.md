@@ -7,11 +7,7 @@
 <p>PhD Candidate · Computer Science, University of Minnesota<br>
 Predoctoral Fellow · National Library of Medicine, NIH</p>
 
-<br>
-
-I develop machine-learning methods to understand how biological systems respond to interventions—and translate those representations into better therapeutic predictions.
-
-<br>
+I develop machine-learning methods to understand how biological systems respond to interventions and translate those representations into better therapeutic predictions.
 
 [**Academic Website**](https://inoue0426.github.io/) &nbsp;·&nbsp; [**Google Scholar**](https://scholar.google.com/citations?user=aBizyLkAAAAJ) &nbsp;·&nbsp; [**Research Statement**](https://inoue0426.github.io/research_statement/main.pdf) &nbsp;·&nbsp; [**Email**](mailto:inoue.yoshitaka.iv1@gmail.com)
 
