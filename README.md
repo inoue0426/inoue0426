@@ -17,11 +17,11 @@ I develop machine-learning methods to understand how biological systems respond 
 
 ### Research at a glance
 
-My work sits at the intersection of **representation learning, computational biology, and therapeutic discovery**. I am especially interested in bridging the gap between what we learn from cellular perturbation experiments and what we can predict about treatment response in patients.
+I build **machine-learning methods for biological perturbations and therapeutic response**, connecting insights from cellular experiments to predictions in more complex biological and patient settings.
 
-| **Model biological change** | **Predict therapeutic response** | **Connect predictions to evidence** |
-| :--- | :--- | :--- |
-| Learn intervention-conditioned changes in cellular representations. | Transfer molecular knowledge across experimental systems and patient contexts. | Use graph structure, mechanistic information, and biomedical literature to make predictions more interpretable. |
+- **Perturbation modeling** — Learn how drugs change cellular states and how these changes generalize across conditions.
+- **Therapeutic response prediction** — Transfer molecular representations from experimental systems to drug-response prediction.
+- **Evidence-aware ML** — Connect computational predictions with biological networks and literature to support interpretation.
 
 ### Featured research
 
