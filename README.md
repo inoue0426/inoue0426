@@ -21,8 +21,6 @@ I develop machine-learning methods to understand how biological systems respond 
 
 ## Research at a glance
 
-I build **machine-learning methods for biological perturbations and therapeutic response**, connecting insights from cellular experiments to predictions in more complex biological and patient settings.
-
 | Research direction | Focus |
 | :--- | :--- |
 | **01 · Perturbation modeling** | Learn how drugs change cellular states and how these changes generalize across conditions. |
