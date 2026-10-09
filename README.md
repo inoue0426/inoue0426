@@ -1,76 +1,77 @@
-<h1 align="center">Yoshitaka Inoue</h1>
+# Yoshitaka Inoue
 
-<p align="center">
-  <strong>PhD Candidate in Computer Science at the University of Minnesota</strong><br>
-  <strong>Pre-doctoral Fellow at NLM / NCI, National Institutes of Health</strong>
-</p>
+**Machine learning for biological perturbations and therapeutic response**
 
-<p align="center">
-  Representation learning and structured machine learning for therapeutic response modeling,<br>
-  computational drug discovery, and precision medicine.
-</p>
+PhD Candidate, Computer Science and Engineering, **University of Minnesota**  
+Pre-doctoral Fellow, **National Library of Medicine / National Cancer Institute, NIH**
 
-<p align="center">
-  <a href="https://inoue0426.github.io/">🌐 Website</a> ·
-  <a href="https://docs.google.com/document/d/1MhDXdLBmyeCmtZ9Nl2uiqMtoHrTNxi1p/edit?usp=sharing&ouid=106112363458944521656&rtpof=true&sd=true">📄 CV</a> ·
-  <a href="https://scholar.google.co.jp/citations?user=aBizyLkAAAAJ&hl=en">🎓 Google Scholar</a> ·
-  <a href="https://orcid.org/0000-0003-4432-8166">🧬 ORCID</a> ·
-  <a href="https://www.linkedin.com/in/inoue0426/">💼 LinkedIn</a>
-</p>
+> **Seeking postdoctoral opportunities** in machine learning for biology, perturbation modeling, and computational drug discovery.
 
----
+[**CV**](https://inoue0426.github.io/cv_postdoc/Yoshitaka_Inoue_CV.pdf) · [**Research Statement**](https://inoue0426.github.io/research_statement/) · [**Publications**](https://inoue0426.github.io/publications/) · [**Email**](mailto:inoue.yoshitaka.iv1@gmail.com)
 
 ## Research
 
-My research develops machine-learning methods for modeling therapeutic response across molecular, cellular, and patient contexts. I am particularly interested in predictive representations, structured biological knowledge, and robust modeling under intervention.
+How can we predict what a treatment will do in a biological context where its effects have not yet been measured?
 
-### Research Directions
+I develop machine-learning methods that connect molecular and cellular perturbations to patient drug response. My work combines treatment-conditioned representation learning, graph-based biological structure, and integration of biomedical evidence.
 
-- **Representation learning** — learning predictive molecular, cellular, and patient representations that preserve treatment-relevant biological context.
-- **Perturbation / response modeling** — modeling treatment-conditioned changes in biological state and generalizing response predictions across drugs, cells, and patient contexts.
-- **Structured / causal modeling** — using biological structure and causal principles to improve interpretability, robustness, and generalization under intervention.
+## Selected Research and Publications
 
-My PhD work follows a progression from **interpreting drug response**, to **reasoning across biomedical evidence**, to **learning treatment-conditioned representations for response prediction**.
+### PerturbRx: From single-cell perturbations to patient response
 
-## Featured Projects
+**First author · Preprint, 2026**
 
-### [drGT](https://github.com/inoue0426/drGT)
-Attention-guided gene assessment of drug response using a drug–cell–gene heterogeneous network.
+Learns latent changes conditioned on drug and dose from single-cell perturbation data, then transfers those representations to patient response prediction using pretreatment profiles. Evaluated on TCGA and patient-derived xenograft benchmarks without requiring patient post-treatment measurements.
 
-### [DrugAgent](https://github.com/inoue0426/DrugAgent)
-Reliable multi-agent aggregation for biomedical evidence synthesis and computational drug discovery.
+[Preprint](https://arxiv.org/abs/2608.21349)
 
-### Treatment-Conditioned Representation Learning
-Ongoing thesis research on predictive representations for therapeutic perturbation and patient-response modeling.
+### drGT: Interpretable drug response prediction
 
-More projects and publications are available on my [academic website](https://inoue0426.github.io/).
+**First author · BMC Bioinformatics, 2026**
 
-## Research Infrastructure
+Models drugs, cell lines, and genes in a heterogeneous graph to predict drug sensitivity and prioritize genes associated with each prediction. Evaluates generalization to unseen drugs and cell lines, and compares gene-level hypotheses with biomedical evidence.
 
-I maintain a small set of open-source repositories for organizing research, evaluating ideas, and reusing scientific tools:
+[Published paper](https://doi.org/10.1186/s12859-026-06417-z) · [Code](https://github.com/inoue0426/drGT)
 
-- [research_ideas](https://github.com/inoue0426/research_ideas) — capture, compare, and evaluate research questions before committing substantial research time.
-- [research_log](https://github.com/inoue0426/research_log) — preserve research decisions, lessons, negative results, and open questions.
-- [research_toolbox](https://github.com/inoue0426/research_toolbox) — reusable utilities and templates for computational biology and scientific workflows.
-- [awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) — curated databases, software, datasets, papers, and resources in computational biology.
+### DrugAgent: Integrating conflicting biomedical evidence
 
-Together, these repositories support a lightweight workflow from **existing resources → research ideas → projects and experiments → lessons and reusable tools**.
+**First author · Preprint; journal manuscript under revision**
 
-## Current Affiliations
+Combines machine-learning predictions, knowledge graphs, and retrieved literature to assess drug-target interactions. Makes agreement and conflict between evidence sources explicit, with evaluations of faithfulness to the evidence and consistency across runs.
 
-- **University of Minnesota** — PhD Candidate, Computer Science and Engineering
-- **National Library of Medicine / National Cancer Institute, NIH** — Pre-doctoral Fellow
-- **Location:** Bethesda, Maryland
+[Preprint](https://arxiv.org/abs/2408.13378) · [Code](https://github.com/inoue0426/DrugAgent)
+
+[Full publication list](https://inoue0426.github.io/publications/) · [Google Scholar](https://scholar.google.co.jp/citations?user=aBizyLkAAAAJ&hl=en)
+
+## Postdoctoral Research Interests
+
+I want to extend this work toward:
+
+- **Transferable perturbation models:** Learn how intervention effects carry across drugs, cell types, and patient contexts.
+- **Biological structure and mechanism:** Incorporate molecular relationships into predictive representations and test the resulting biological hypotheses.
+- **Reliable therapeutic reasoning:** Connect response predictions with biomedical evidence and characterize when those predictions transfer to new contexts.
+
+I welcome conversations with groups working at the intersection of machine learning, computational biology, and therapeutic discovery.
 
 ## Methods and Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179" alt="PyTorch Geometric">
-  <img src="https://img.shields.io/badge/Graph_Neural_Networks-194F8A" alt="Graph Neural Networks">
-  <img src="https://img.shields.io/badge/Representation_Learning-4B5563" alt="Representation Learning">
-  <img src="https://img.shields.io/badge/Single--Cell_Analysis-258A5B" alt="Single-Cell Analysis">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
-</p>
+**Methods:** Representation learning, heterogeneous graph neural networks, single-cell analysis, and LLM-based biomedical evidence integration.  
+**Tools:** Python, PyTorch, PyTorch Geometric, Docker, and Linux.
+
+<details>
+<summary><strong>Open-source research resources</strong></summary>
+
+- [awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology): Curated computational biology databases, datasets, papers, and software.
+- [research_toolbox](https://github.com/inoue0426/research_toolbox): Reusable utilities and templates for scientific workflows.
+- [research_ideas](https://github.com/inoue0426/research_ideas): Organizing and evaluating research questions.
+- [research_log](https://github.com/inoue0426/research_log): Research decisions, lessons, and open questions.
+
+</details>
+
+## Contact
+
+For postdoctoral opportunities and research collaborations:  
+[**inoue.yoshitaka.iv1@gmail.com**](mailto:inoue.yoshitaka.iv1@gmail.com) · Bethesda, Maryland
+
+[Academic website](https://inoue0426.github.io/) · [ORCID](https://orcid.org/0000-0003-4432-8166) · [LinkedIn](https://www.linkedin.com/in/inoue0426/)
+
