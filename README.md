@@ -79,17 +79,3 @@ Explore relationships among therapeutics, targets, diseases, and clinical studie
 | [**research_toolbox**](https://github.com/inoue0426/research_toolbox) | Reusable utilities for molecular fingerprints, UniProt mapping, evaluation, caching, and scientific visualization. |
 | [**awesome-computational-biology**](https://github.com/inoue0426/awesome-computational-biology) | Curated resources for computational biology: datasets, databases, software, and papers. |
 | [**paper-summary**](https://github.com/inoue0426/paper-summary) | Structured research reading notes covering methods, results, and open questions. |
-
----
-
-<div align="center">
-
-### Research & collaboration
-
-I welcome conversations about machine learning for biology, therapeutic intervention modeling, and research collaborations.
-
-[**Academic website**](https://inoue0426.github.io/) · [**Email**](mailto:inoue.yoshitaka.iv1@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/inoue0426/)
-
-<sub>For a full publication list, research statements, and CV, please visit my academic website.</sub>
-
-</div>
