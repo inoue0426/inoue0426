@@ -4,8 +4,8 @@
 
 **Machine Learning for Therapeutic Intervention & Biological Dynamics**
 
-<sub>PhD Candidate · Computer Science, University of Minnesota</sub><br>
-<sub>Predoctoral Fellow · National Library of Medicine, NIH</sub>
+<p>PhD Candidate · Computer Science, University of Minnesota<br>
+Predoctoral Fellow · National Library of Medicine, NIH</p>
 
 <br>
 
