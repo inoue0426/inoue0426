@@ -1,45 +1,105 @@
+<div align="center">
+
 # Yoshitaka Inoue
 
-PhD Candidate in Computer Science at the **University of Minnesota**  
-Pre-doctoral Fellow at **NLM / NCI, NIH**
+### Machine Learning for Therapeutic Intervention & Biological Dynamics
 
-I develop machine-learning methods to model how biological systems respond to interventions and predict therapeutic response. Here I share research code and reusable tools for computational biology.
+**PhD Candidate · Computer Science, University of Minnesota**  
+**Predoctoral Fellow · National Library of Medicine, NIH**
 
-**Research, publications & CV → [Academic website](https://inoue0426.github.io/)**
+I develop machine-learning methods to understand how biological systems respond to interventions—and translate those representations into better therapeutic predictions.
 
-## Research Focus
+[**Website**](https://inoue0426.github.io/) · [**Publications**](https://inoue0426.github.io/#publications) · [**GitHub Projects**](https://github.com/inoue0426?tab=repositories) · [**Contact**](mailto:inoue.yoshitaka.iv1@gmail.com)
 
-- **Perturbation modeling:** Learn how drugs change biological states and how those effects transfer across cellular and patient contexts.
-- **Interpretable graph learning:** Use relationships between drugs, genes, and cells to connect response predictions with biological hypotheses.
-- **Biomedical evidence integration:** Bring together model predictions, structured knowledge, and literature to assess therapeutic mechanisms.
+</div>
 
-## Selected Projects
+---
 
-| Project | What you can do | Built with |
-| --- | --- | --- |
-| [**drGT**](https://github.com/inoue0426/drGT) | Predict drug sensitivity and inspect gene-level contributions using a drug-cell-gene graph. | PyTorch · PyTorch Geometric |
-| [**DrugAgent**](https://github.com/inoue0426/DrugAgent) | Assess drug-target interactions by combining model predictions, knowledge graphs, and retrieved biomedical literature. | Python · LLMs · RAG |
-| [**OncoGraph**](https://github.com/inoue0426/OncoGraph) | Explore oncology relationships with source-linked evidence through a public explorer, API, and MCP tools. | Python · FastAPI · SQLite · MCP |
-| [**research_toolbox**](https://github.com/inoue0426/research_toolbox) | Reuse evaluation, molecular fingerprints, UniProt mapping, caching, and scientific plotting utilities. | Python · RDKit · Matplotlib |
+### Research at a glance
 
-### Where to Start
+My work sits at the intersection of **representation learning, computational biology, and therapeutic discovery**. I am especially interested in bridging the gap between what we learn from cellular perturbation experiments and what we can predict about treatment response in patients.
 
-- **drGT:** Explore the [pretrained-model notebook](https://github.com/inoue0426/drGT/blob/main/predict_with_pretrained_model.ipynb) for prediction and evaluation examples.
-- **DrugAgent:** Follow the [command-line workflow](https://github.com/inoue0426/DrugAgent#run) to combine ML, knowledge-graph, and literature evidence.
-- **OncoGraph:** Try the [public explorer](https://inoue0426.github.io/OncoGraph/) to browse drugs, targets, diseases, and supporting evidence.
-- **research_toolbox:** Browse the [Python API examples](https://github.com/inoue0426/research_toolbox#recommended-api) for reusable analysis utilities.
+| **Model biological change** | **Predict therapeutic response** | **Connect predictions to evidence** |
+| :--- | :--- | :--- |
+| Learn intervention-conditioned changes in cellular representations. | Transfer molecular knowledge across experimental systems and patient contexts. | Use graph structure, mechanistic information, and biomedical literature to make predictions more interpretable. |
 
-[Browse all repositories →](https://github.com/inoue0426?tab=repositories)
+### Featured research
 
-## Resources and Reading
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- [**awesome-computational-biology**](https://github.com/inoue0426/awesome-computational-biology) — Curated databases, datasets, software, and papers for computational biology.
-- [**paper-summary**](https://github.com/inoue0426/paper-summary) — Structured reading notes on methods, contributions, evaluation, and open questions.
+#### 01 · PerturbRx
+**From single-cell perturbations to patient drug response**
 
-**Core tools:** Python · PyTorch · PyTorch Geometric · RDKit · Docker · Linux
+Learns drug- and dose-conditioned latent transitions from single-cell populations, then transfers these signals to patient-level treatment-response prediction.
 
-## Get in Touch
+[**Read the preprint →**](https://arxiv.org/abs/2608.21349)
 
-For postdoctoral opportunities, research collaborations, or questions about my code, feel free to get in touch.
+</td>
+<td width="50%" valign="top">
 
-[Email](mailto:inoue.yoshitaka.iv1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/inoue0426/) · [Academic website](https://inoue0426.github.io/)
+#### 02 · drGT
+**Interpretable drug response prediction with graph learning**
+
+Models drug–cell–gene relationships to predict sensitivity and investigate gene-level contributions.
+
+[**Explore the code →**](https://github.com/inoue0426/drGT) · [**Example notebook →**](https://github.com/inoue0426/drGT/blob/main/predict_with_pretrained_model.ipynb)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 03 · DrugAgent
+**Multi-agent reasoning over biomedical evidence**
+
+Combines machine-learning scores, knowledge-graph signals, and literature retrieval to assess drug–target interactions with evidence-linked reasoning.
+
+[**Code & documentation →**](https://github.com/inoue0426/DrugAgent) · [**Paper →**](https://arxiv.org/abs/2408.13378)
+
+</td>
+<td width="50%" valign="top">
+
+#### 04 · OncoGraph
+**A provenance-aware oncology knowledge graph**
+
+Explore relationships among therapeutics, targets, diseases, and clinical studies while tracing the evidence behind each connection.
+
+[**Live explorer →**](https://inoue0426.github.io/OncoGraph/) · [**Code →**](https://github.com/inoue0426/OncoGraph)
+
+</td>
+</tr>
+</table>
+
+### Open-source tools and resources
+
+| Repository | What it offers |
+| :--- | :--- |
+| [**research_toolbox**](https://github.com/inoue0426/research_toolbox) | Reusable utilities for molecular fingerprints, UniProt mapping, evaluation, caching, and scientific visualization. |
+| [**awesome-computational-biology**](https://github.com/inoue0426/awesome-computational-biology) | Curated resources for computational biology: datasets, databases, software, and papers. |
+| [**paper-summary**](https://github.com/inoue0426/paper-summary) | Structured research reading notes covering methods, results, and open questions. |
+
+<details>
+<summary><b>Methods and tools</b></summary>
+<br>
+
+**Methods:** representation learning · graph neural networks · cellular perturbation modeling · drug-response prediction · evidence-aware reasoning
+
+**Tools:** Python · PyTorch · PyTorch Geometric · RDKit · Docker · Linux
+
+</details>
+
+---
+
+<div align="center">
+
+### Research & collaboration
+
+I welcome conversations about machine learning for biology, therapeutic intervention modeling, and research collaborations.
+
+[**Academic website**](https://inoue0426.github.io/) · [**Email**](mailto:inoue.yoshitaka.iv1@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/inoue0426/)
+
+<sub>For a full publication list, research statements, and CV, please visit my academic website.</sub>
+
+</div>
