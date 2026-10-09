@@ -13,7 +13,7 @@ I develop machine-learning methods to understand how biological systems respond 
 
 <br>
 
-[**Academic Website**](https://inoue0426.github.io/) &nbsp;·&nbsp; [**Google Scholar**](https://scholar.google.com/citations?user=aBizyLkAAAAJ) &nbsp;·&nbsp; [**Repositories**](https://github.com/inoue0426?tab=repositories) &nbsp;·&nbsp; [**Email**](mailto:inoue.yoshitaka.iv1@gmail.com)
+[**Academic Website**](https://inoue0426.github.io/) &nbsp;·&nbsp; [**Google Scholar**](https://scholar.google.com/citations?user=aBizyLkAAAAJ) &nbsp;·&nbsp; [**Research Statement**](https://inoue0426.github.io/research_statement/main.pdf) &nbsp;·&nbsp; [**Email**](mailto:inoue.yoshitaka.iv1@gmail.com)
 
 </div>
 
