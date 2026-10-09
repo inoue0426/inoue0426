@@ -62,10 +62,9 @@ I develop machine-learning methods to understand how biological systems respond 
 
 <br>
 
-## Open-source tools and resources
+## Additional resources
 
-| Repository | What it offers |
+| Repository | Description |
 | :--- | :--- |
-| [**research_toolbox**](https://github.com/inoue0426/research_toolbox) | Reusable utilities for molecular fingerprints, UniProt mapping, evaluation, caching, and scientific visualization. |
-| [**awesome-computational-biology**](https://github.com/inoue0426/awesome-computational-biology) | Curated resources for computational biology: datasets, databases, software, and papers. |
-| [**research_ideas**](https://github.com/inoue0426/research_ideas) | A structured collection of research questions, hypotheses, and experimental directions, with systematic idea evaluation and comparison. |
+| [**awesome-computational-biology**](https://github.com/inoue0426/awesome-computational-biology) | Curated datasets, databases, software, and papers for computational biology. |
+| [**research_ideas**](https://github.com/inoue0426/research_ideas) | Research questions, hypotheses, and experimental directions. |
