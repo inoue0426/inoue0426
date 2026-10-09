@@ -80,16 +80,6 @@ Explore relationships among therapeutics, targets, diseases, and clinical studie
 | [**awesome-computational-biology**](https://github.com/inoue0426/awesome-computational-biology) | Curated resources for computational biology: datasets, databases, software, and papers. |
 | [**paper-summary**](https://github.com/inoue0426/paper-summary) | Structured research reading notes covering methods, results, and open questions. |
 
-<details>
-<summary><b>Methods and tools</b></summary>
-<br>
-
-**Methods:** representation learning · graph neural networks · cellular perturbation modeling · drug-response prediction · evidence-aware reasoning
-
-**Tools:** Python · PyTorch · PyTorch Geometric · RDKit · Docker · Linux
-
-</details>
-
 ---
 
 <div align="center">
