@@ -19,12 +19,14 @@ I develop machine-learning methods to model how biological systems respond to in
 | --- | --- | --- |
 | [**drGT**](https://github.com/inoue0426/drGT) | Predict drug sensitivity and inspect gene-level contributions using a drug-cell-gene graph. | PyTorch · PyTorch Geometric |
 | [**DrugAgent**](https://github.com/inoue0426/DrugAgent) | Assess drug-target interactions by combining model predictions, knowledge graphs, and retrieved biomedical literature. | Python · LLMs · RAG |
+| [**OncoGraph**](https://github.com/inoue0426/OncoGraph) | Explore oncology relationships with source-linked evidence through a public explorer, API, and MCP tools. | Python · FastAPI · SQLite · MCP |
 | [**research_toolbox**](https://github.com/inoue0426/research_toolbox) | Reuse evaluation, molecular fingerprints, UniProt mapping, caching, and scientific plotting utilities. | Python · RDKit · Matplotlib |
 
 ### Where to Start
 
 - **drGT:** Explore the [pretrained-model notebook](https://github.com/inoue0426/drGT/blob/main/predict_with_pretrained_model.ipynb) for prediction and evaluation examples.
 - **DrugAgent:** Follow the [command-line workflow](https://github.com/inoue0426/DrugAgent#run) to combine ML, knowledge-graph, and literature evidence.
+- **OncoGraph:** Try the [public explorer](https://inoue0426.github.io/OncoGraph/) to browse drugs, targets, diseases, and supporting evidence.
 - **research_toolbox:** Browse the [Python API examples](https://github.com/inoue0426/research_toolbox#recommended-api) for reusable analysis utilities.
 
 [Browse all repositories →](https://github.com/inoue0426?tab=repositories)
